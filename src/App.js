@@ -87,7 +87,7 @@ export default function Game(){
 
       function handlePlay(nextSqaures){
         const nextHistory = [...history.slice(0, currentMove + 1), nextSqaures];
-        setHistory([...history,nextSqaures]);
+        setHistory(nextHistory);
         setCurrentMove(nextHistory.length -1);
 
       }
