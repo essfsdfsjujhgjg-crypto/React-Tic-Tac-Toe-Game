@@ -2,10 +2,10 @@
 <img width="1913" height="856" alt="image" src="https://github.com/user-attachments/assets/a3335c23-7860-46bd-90cc-851b1387508d" />
 
 <h1>Features:</h1>
-<p>- Player turn tracking</p><br>
-<p>- Winner detection</p><br>
-<p>- Move history</p><br>
-<p>- Time travel between moves</p><br>
+<p>- Player turn tracking</p>
+<p>- Winner detection</p>
+<p>- Move history</p>
+<p>- Time travel between moves</p>
 
 Built while learning React state management and component architecture.
 # Getting Started with Create React App
